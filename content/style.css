@@ -1,0 +1,37 @@
+* {
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+
+header, footer {
+	border-color: blanchedalmond;
+	background-color: pink;
+}
+
+main {
+	background-color: blanchedalmond;
+}
+
+.book-title {
+	font-style: italic;
+}
+
+h1 {
+	color: navy;
+}
+
+h2 {
+	color: maroon;
+}
+
+h3 {
+	color: darkolivegreen;
+}
+
+ul {
+	list-style: none;
+}
+
+a:hover { 
+	color: palevioletred
+}
