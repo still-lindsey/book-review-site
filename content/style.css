@@ -35,3 +35,11 @@ ul {
 a:hover { 
 	color: palevioletred
 }
+
+nav li{
+	display: inline-block;
+}
+
+nav{
+	float: right;
+}
